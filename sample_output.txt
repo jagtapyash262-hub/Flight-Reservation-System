@@ -1,0 +1,23 @@
+FLIGHT RESERVATION SYSTEM
+
+1. View All Flights
+2. Search Flight by Destination (Linear Search)
+3. Search Flight by Flight Number (Binary Search)
+4. Sort Flights by Ticket Price (Bubble Sort)
+5. Sort Flights by Departure Time (Selection Sort)
+6. Book a Flight
+7. View Reservations
+8. Exit
+
+Enter your choice: 1
+
+Available Flights:
+Flight No: 101 | Pune to Delhi | Price: ₹4500 | Seats: 40
+Flight No: 102 | Pune to Mumbai | Price: ₹1500 | Seats: 35
+Flight No: 103 | Pune to Bengaluru | Price: ₹3500 | Seats: 30
+Flight No: 104 | Pune to Goa | Price: ₹2500 | Seats: 25
+Flight No: 105 | Pune to Hyderabad | Price: ₹3000 | Seats: 20
+
+Enter your choice: 8
+
+Thank you for using the Flight Reservation System!
